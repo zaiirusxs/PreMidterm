@@ -1,0 +1,429 @@
+*{
+    margin: 0;
+    padding: 0;
+  }
+  .cont{
+    position: relative;
+    background-color: rgba(245, 205, 137, 0.549);
+    width:785px;
+    height: 170px;
+  }
+  .nav{
+    position:absolute;
+    top: 15px;
+    left: 260px;
+    margin-left: 20px;
+    font-family: "Abel";
+   }
+   .nav a{
+     text-decoration: none;
+     font-size: 16px;
+     margin-right: 3px;
+   }
+   .home{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 13px;
+    color: rgb(255, 255, 255);
+   }
+   .about{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 13px;
+     color: white;
+   }
+  .blog{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 13px;
+    color: white;
+  }
+   .team{
+     padding-left: 10px;
+     padding-right: 10px;
+     padding-top: 15px;
+     padding-bottom: 16px;
+     margin-left: 5px;
+     color: rgb(0, 0, 0);
+     background-color: #FFF8DC;
+   }
+   .contact{
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 15px;
+    padding-bottom: 13px;
+    margin-left: 5px;
+     color: white;
+   }
+   .bi{
+     position: absolute;
+     font-size: 30px;
+     bottom: 0;
+     margin-left: 70px;
+     padding-top: 19px;
+   }
+   body{
+     background-color: #f6e5d3
+   }
+   .head{
+    font-size:24px;
+    background-color:#b09464;
+    color: #ffeca0;
+    padding: 8px;
+    width: 769px;
+    font-family:"Paytone One";
+  }
+  .white{
+    color: white;
+  }
+  .your{
+    position: absolute;
+    font-family: "Frijole";
+    margin-top: 15px;
+    margin-left: 100px;
+    color: #EA6830;
+  }
+  .we{
+    position: absolute;
+    font-size: 14px;
+    font-family: "Rhodium Libre";
+    margin-top: 65px;
+    margin-left: 100px;
+  }
+  .wanted{
+    margin-left: 230px;
+  }
+  .second{
+    background-color: #F8E5D4;
+    width: 785px;
+    color: #2AA5A1;
+  }
+  .meet{
+    font-family: "Righteous";
+    margin-left: 75px;
+    margin-top: 25px;
+    letter-spacing: 25px;
+    color: #2AA5A1;
+  }
+  .kath{
+    position: absolute;
+    background-color: #FFF8DC;
+    height: 110px;
+    width: 110px;
+    border-radius: 500%;
+    margin-left: 100px;
+    margin-top: 10px;
+  }
+  .kathdiv{
+    position: absolute;
+    width: 180px;
+    height: 260px;
+    border-radius: 20px;
+    background-color: #D8B887;
+    margin-top: 310px;
+    margin-left:65.3px;
+  }
+  .kathlet{
+    position: absolute;
+    font-family: "Rhodium Libre";
+    font-size: 10.5px;
+    color: white;
+    margin-left: 3px;
+    margin-top: 73px;
+    padding: 5px;
+  }
+  .kathlyn{
+    position: absolute;
+    font-family: "Kaushan Script";
+    font-size: 30px;
+    color: #C75D25;
+    margin-top:95px;
+    margin-left:91px
+  }
+  .core{
+    position: absolute;
+    font-family: "Red Rose";
+    font-size: 14px;
+    color: #2AA5A1;
+    margin-top:131px;
+    letter-spacing: 4px;
+    margin-left:110px
+  }
+  .gww{
+    position: absolute;
+    background-color: #FFF8DC;
+    height: 110px;
+    width: 110px;
+    border-radius: 500%;
+    margin-left: 316px;
+    margin-top: 10px;
+  }
+  .gwwdiv{
+    position: absolute;
+    width: 180px;
+    height: 260px;
+    border-radius: 20px;
+    background-color: #D8B887;
+    margin-top: 310px;
+    margin-left:283px;
+  }
+  .angelalet{
+    position: absolute;
+    font-family: "Rhodium Libre";
+    font-size: 10.5px;
+    color: white;
+    margin-left: 3px;
+    margin-top: 73px;
+    padding: 6px;
+  }
+  .angela{
+    position: absolute;
+    font-family: "Kaushan Script";
+    font-size: 30px;
+    color: #C75D25;
+    margin-top:95px;
+    margin-left:327px
+  }
+  .support{
+    position: absolute;
+    font-family: "Red Rose";
+    font-size: 14px;
+    color: #2AA5A1;
+    margin-top:131px;
+    letter-spacing: 4px;
+    margin-left:305px
+  }
+  .JANN{
+    position: absolute;
+    background-color: #FFF8DC;
+    height: 110px;
+    width: 110px;
+    border-radius: 500%;
+    margin-left: 526px;
+    margin-top: 10px;
+  }
+  .JANNdiv{
+    position: absolute;
+    width: 180px;
+    height: 260px;
+    border-radius: 20px;
+    background-color: #D8B887;
+    margin-top: 310px;
+    margin-left:495.5px;
+  }
+  .JANNlet{
+    position: absolute;
+    font-family: "Rhodium Libre";
+    font-size: 10.5px;
+    color: white;
+    margin-left: 3px;
+    margin-top: 85px;
+    padding: 5px;
+  }
+  .janjan{
+    position: absolute;
+    font-family: "Kaushan Script";
+    font-size: 30px;
+    color: #C75D25;
+    margin-top:95px;
+    margin-left:527px
+  }
+  .goallaner{
+    position: absolute;
+    font-family: "Red Rose";
+    font-size: 14px;
+    color: #2AA5A1;
+    margin-top:131px;
+    letter-spacing: 4px;
+    margin-left:536px;
+  }
+  .Goal{
+    margin-left: 20px;
+  }
+  .aylen{
+    position: absolute;
+    background-color: #FFF8DC;
+    height: 110px;
+    width: 110px;
+    border-radius: 500%;
+    margin-left: 100px;
+    margin-top: 360px;
+  }
+  .aylendiv{
+    position: absolute;
+    width: 180px;
+    height: 270px;
+    border-radius: 20px;
+    background-color: #D8B887;
+    margin-top: 640px;
+    margin-left:65.3px;
+  }
+  .aileen{
+    position: absolute;
+    font-family: "Kaushan Script";
+    font-size: 30px;
+    color: #C75D25;
+    margin-top:452px;
+    margin-left:115px
+  }
+  .aileenlet{
+    position: absolute;
+    font-family: "Rhodium Libre";
+    font-size: 10.5px;
+    color: white;
+    margin-left: 3px;
+    margin-top: 100px;
+    padding: 5px;
+  }
+  .fighter{
+    position: absolute;
+    font-family: "Red Rose";
+    font-size: 14px;
+    color: #2AA5A1;
+    margin-top:487px;
+    letter-spacing: 4px;
+    margin-left:90px;
+  }
+  .nine{
+    position: absolute;
+    background-color: #FFF8DC;
+    height: 110px;
+    width: 110px;
+    border-radius: 500%;
+    margin-left: 317px;
+    margin-top: 360px;
+  }
+  .ninediv{
+    position: absolute;
+    width: 180px;
+    height: 270px;
+    border-radius: 20px;
+    background-color: #D8B887;
+    margin-top: 640px;
+    margin-left:283px;
+  }
+  .ninelet{
+    position: absolute;
+    font-family: "Rhodium Libre";
+    font-size: 10.5px;
+    color: white;
+    margin-left: 5px;
+    margin-top: 100px;
+    padding: 5px;
+  }
+  .dorothy{
+    position: absolute;
+    font-family: "Kaushan Script";
+    font-size: 30px;
+    color: #C75D25;
+    margin-top:450px;
+    margin-left:304px
+  }
+  .coach{
+    position: absolute;
+    font-family: "Red Rose";
+    font-size: 14px;
+    color: #2AA5A1;
+    margin-top:485px;
+    letter-spacing: 4px;
+    margin-left:310px
+  }
+  .debel{
+    position: absolute;
+    background-color: #FFF8DC;
+    height: 110px;
+    width: 110px;
+    border-radius: 500%;
+    margin-left: 532px;
+    margin-top: 360px;
+  }
+  .keetdiv{
+    position: absolute;
+    width: 180px;
+    height: 270px;
+    border-radius: 20px;
+    background-color: #D8B887;
+    margin-top: 640px;
+    margin-left:497px;
+  }
+  .jennlet{
+    position: absolute;
+    font-family: "Rhodium Libre";
+    font-size: 10.5px;
+    color: white;
+    margin-left: 10px;
+    margin-top: 105px;
+  }
+  .analyst{
+    position: absolute;
+    font-family: "Red Rose";
+    font-size: 14px;
+    color: #2AA5A1;
+    margin-top:487px;
+    letter-spacing: 4px;
+    margin-left:524px;
+  }
+  .jennkeet{
+    position: absolute;
+    font-family: "Kaushan Script";
+    font-size: 30px;
+    color: #C75D25;
+    margin-top:448px;
+    margin-left:532px
+  }
+  .shadowcircle{
+    position: absolute;
+    height: 400px;
+    width: 160px;
+    margin-top: 219px;
+    background-color: #f6d8aa;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 120px;
+  }
+  .ab{
+    position: relative;
+  }
+ 
+  .shadowcircle2{
+    position: absolute;
+    background-color: #f6d8aa;
+    width: 255px;
+    height: 280px;
+    border-top-right-radius: 100px;
+    border-bottom-right-radius: 450px;
+    margin-top: 520px;
+  }
+  .shadowcircle3{
+    position: absolute;
+    background-color: #f6d8aa;
+    width: 100px;
+    height: 220px;
+    border-top-right-radius: 300px;
+    margin-top: 760px;
+  }
+  .shadowcircle4{
+    position: absolute;
+    background-color: #f6d8aa;
+    width:135px;
+    height: 160px;
+    border-top-left-radius: 2px;
+    border-bottom-left-radius: 200%;
+    margin-top: 219px;
+    margin-left: 650px;
+  }
+  .all{
+    position:absolute;
+    background-color: #B09464;
+    color: white;
+    height: 30px;
+    padding-top: 15px;
+    text-align: center;
+    width: 785px;
+    font-weight: 10;
+    font-size: 15px;
+    font-family: "Red Rose";
+    margin-top:700px;
+  }
